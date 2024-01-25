@@ -1,0 +1,15 @@
+{
+  "name": "nup_node_assignment",
+  "version": "1.0.0",
+  "description": "It is a practice code to create a server in node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Kumar Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
